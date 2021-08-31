@@ -1,0 +1,5 @@
+Docker Enterprise Edition components such as Universal Control Plane and Docker Trusted Registry require sufficient resources in order to perform well in a production scenario. 
+
+Relevant Documentation
+https://docs.docker.com/ee/ucp/admin/install/system-requirements/
+https://docs.docker.com/ee/dtr/admin/install/system-requirements/

@@ -1,0 +1,2 @@
+FROM test:v11
+COPY sampleapp.war /opt/tomcat/webapps
